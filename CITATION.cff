@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "NYC Taxi Duration Study"
+message: "If you use this repository, please cite it as below."
+type: software
+authors:
+  - family-names: "Shu"
+    given-names: "Xinyu"
+repository-code: "https://github.com/xinyushu766-art/nyc-taxi-duration-study"
+url: "https://github.com/xinyushu766-art/nyc-taxi-duration-study"
+abstract: "A research-style data science project on interpretable trip-duration prediction and error analysis using official NYC TLC taxi trip records."
+license: "MIT"
+keywords:
+  - data science
+  - machine learning
+  - xgboost
+  - taxi trip duration
+  - urban mobility

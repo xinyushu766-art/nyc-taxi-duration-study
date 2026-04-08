@@ -1,0 +1,9 @@
+feature_family,importance
+DOLocationID,0.38467145
+PULocationID,0.31787947
+RatecodeID,0.24634841
+trip_distance,0.04063923
+pickup_hour,0.0041933265
+payment_type,0.0034191036
+pickup_dayofweek,0.002849037
+pickup_month,0.0

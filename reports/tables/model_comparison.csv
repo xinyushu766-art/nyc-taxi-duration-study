@@ -1,0 +1,4 @@
+model,mae,rmse,train_seconds
+XGBoost,3.7965,6.4358,1.6
+RandomForest,3.9557,6.648,74.56
+LinearRegression,5.1454,7.9691,1.32
